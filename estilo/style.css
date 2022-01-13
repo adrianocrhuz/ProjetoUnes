@@ -17,6 +17,9 @@
 }
 body {
     font-family: var(--fonte1);
+    background-image: url(../imagens/fundo.png);
+    background-size: 100px;
+    background-repeat: repeat;
 }
 header {
     min-height: 100px;
@@ -31,8 +34,7 @@ img {
 
 div.img2 {
     display: block;
-    text-align: center;
-    background-color: rgba(128, 128, 128, 0.116);
+    text-align: center;   
 }
 nav {
     margin-top: 20px;
