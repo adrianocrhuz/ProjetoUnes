@@ -56,6 +56,10 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
+.link::after {
+    content: "\00A0\00A0\|";
+}
+
 main {
     max-width: 880px;
     min-width: 300px;
