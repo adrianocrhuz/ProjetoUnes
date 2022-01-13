@@ -76,18 +76,19 @@ main p {
     text-indent: 30px;
     text-align: justify;     
 }
-article > ol {
-    padding-bottom: 20px
+article > ul {
+    padding-bottom: 20px;
 }
 
-article > ol > li {
+article > ul > li {
     list-style: inside;
+}
+.lista {
     margin-left: 40px;
 }
-
 form {
     padding: 5px;
-    font-size: 00.8em;
+    font-size: 0.8em;
 }
 input {
     width: 200px;
