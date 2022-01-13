@@ -76,11 +76,11 @@ main p {
     text-indent: 30px;
     text-align: justify;     
 }
-article > ul {
+article > ol {
     padding-bottom: 20px;
 }
 
-article > ul > li {
+article > ol > li {
     list-style: inside;
 }
 .lista {
