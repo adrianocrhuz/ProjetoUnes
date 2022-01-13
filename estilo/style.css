@@ -82,7 +82,7 @@ article > ul {
 
 article > ul > li {
     list-style: inside;
-    margin-left: 40px;
+    margin: 40px;
 }
 
 form {
